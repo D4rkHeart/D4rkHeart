@@ -48,3 +48,8 @@
 <p align="center"><br><br>
     <img src="https://svg-banners.vercel.app/api?type=luminance&text1=GitHub Stats&width=200&height=100" alt="Stats.svg">
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=D4rkHeart&theme=swift&hide_border=false&include_all_commits=true&count_private=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=D4rkHeart&theme=swift&hide_border=false">
+<p>
