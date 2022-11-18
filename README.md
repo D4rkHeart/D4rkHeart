@@ -4,7 +4,6 @@
     <img src="https://moon-svg.minung.dev/moon.svg?size=70&date=2000-02-2&theme=ray" alt="moon.svg" />
     <br>
     <br>
-    <img src="./IMG/Presentation.gif" alt="A terminal presentation"  width="850" />
 </div>
 <p align="center" width="10" height="40">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -45,7 +44,9 @@
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
 </p>
 
-<p align="center"><br><br>
+<p align="center">
+<br>
+<br>
     <img src="https://svg-banners.vercel.app/api?type=luminance&text1=GitHub Stats&width=200&height=100" alt="Stats.svg">
 </p>
 
@@ -56,7 +57,9 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)">
 <p>
 
-<p align="center"><br><br>
+<p align="center">
+<br>
+<br>
     <img src="https://svg-banners.vercel.app/api?type=luminance&text1=About me&width=200&height=100"alt="aboutMe.svg"><br><br>
     <img src="./IMG/Presentation.gif"alt="A terminal presentation"  width="850">
 </p>
