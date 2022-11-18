@@ -44,3 +44,7 @@
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
 </p>
+
+<p align="center"><br><br>
+    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=GitHub Stats&width=200&height=100" alt="Stats.svg">
+</p>
