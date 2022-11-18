@@ -55,3 +55,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4rkHeart&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><br><br>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)">
 <p>
+
+<p align="center"><br><br>
+    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=About me&width=200&height=100"alt="aboutMe.svg"><br><br>
+    <img src="./IMG/Presentation.gif"alt="A terminal presentation"  width="850">
+</p>
