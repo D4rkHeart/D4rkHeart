@@ -47,7 +47,7 @@
 <p align="center">
 <br>
 <br>
-    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=GitHub Stats%20&width=200&height=100" alt="Stats.svg">
+    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=GitHub%20Stats&width=200&height=100" alt="Stats.svg">
 </p>
 
 <p align="center">
