@@ -60,6 +60,6 @@
 <p align="center">
 <br>
 <br>
-    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=About me&width=200&height=100"alt="aboutMe.svg"><br><br>
+    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=About%20me&width=200&height=100"alt="aboutMe.svg"><br><br>
     <img src="./IMG/Presentation.gif"alt="A terminal presentation"  width="850">
 </p>
